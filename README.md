@@ -77,6 +77,10 @@ Here are some ideas to get you started:
 📍 **State Energy Company** - non-destructive testing engineer
 
 
+- 👨 **Software Development**\
+📆 December, 2022 - today\
+📍 **State Energy Company** - programming engineer
+
 ### 📊 Github Stats
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzmitrySha&width=500&theme=radical)
